@@ -10,3 +10,10 @@ I've been coding since my college days, started off with visual basic, c++ and j
 - 🌱 I’m currently learning more of Reactjs.
 
 - ⚡ Asides coding , i enjoy frequent visits to the gym and i also love playing football.
+<br>
+<br>
+<br>
+:rocket: Languages and tools
+<hr>
+
+!
