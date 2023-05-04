@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs.**
 
-- ⚡ Fun fact **Asides coding , i enjoy frequent visits to the gym and I also love playing football.**
+- ⚡ Fun fact **Asides coding , i enjoy frequent visits to the gym and I also love football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
