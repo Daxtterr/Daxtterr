@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Nigeria</h3>
 
 
-- 🔭 I’m currently working with **React JS,NodeJS Tailwind CSS, and using them to build fun, creative Web Projects**
+- 🔭 I’m currently working with **React JS,NodeJS and Tailwind CSS, and using them to build fun, creative Web Projects**
 
 - 🌱 I’m currently learning **Reactjs and NodeJS.**
 
