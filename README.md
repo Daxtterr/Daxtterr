@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
+- 📫 How to reach me **aimuelemmanuel@gmail.com**
+
 - ⚡ Fun fact Asides coding **i enjoy frequent visits to the gym and I also love football**
 
 <h3 align="left">Connect with me:</h3>
