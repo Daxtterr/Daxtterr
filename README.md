@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daxter</h1>
 <h3 align="center">I'm a Full Stack Software Engineer</h3>
 
-- 🌱 I’m currently building with **ReactJS, NodeJS and Express**
+- 🌱 I’m currently building with **ReactJS,Typescript, NodeJS and Express**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
